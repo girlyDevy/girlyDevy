@@ -5,7 +5,7 @@
 
 <img  align='right'  src="https://raw.githubusercontent.com/girlyDevy/girlyDevy/master/media/womandeveloper.gif"  width="230">
 
-<p><em>FullStack Developer at <a  href="https://www.pinclick.com/">PinClick</a><img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30"> </em></p>
+<p><em>FullStack Developer at <a  href="https://www.ampcome.com/">Ampcome</a><img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30"> </em></p>
 
   
   
